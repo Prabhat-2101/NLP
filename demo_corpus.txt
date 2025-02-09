@@ -1,0 +1,3 @@
+Natural language processing (NLP) is a fascinating field of study. It involves using algorithms to analyze and understand human language. NLP can be applied in many areas, such as machine translation, text classification, and speech recognition. As technology advances, NLP models are becoming more powerful, enabling machines to understand and process human language with higher accuracy.
+
+The field of NLP has numerous applications, including chatbots, sentiment analysis, and automatic summarization. The use of NLP in modern-day technologies is revolutionizing how we interact with machines. for Preprocessing we are adding some redundant words. For example: Field, NLP, Areas, Machines, Human and many more words.
